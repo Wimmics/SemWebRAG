@@ -1,0 +1,13 @@
+question :
+
+
+
+what are the main domains of NVIDIA ? 
+
+
+
+context : 
+
+
+
+NVIDIA has a platform strategy, bringing together hardware, systems, software, algorithms, libraries, and services to create unique value for the markets we serve.

@@ -1,0 +1,30 @@
+question :
+
+
+
+NVIDIA
+
+
+
+detail of entities detected in the query : 
+
+
+
+
+
+Entity 'direct PCR' has no complementary information.
+
+
+relations with other entities : 
+
+
+
+
+
+
+
+context : 
+
+
+
+These htSNPs were genotyped in the 197 infants by direct PCR sequencing analysis as we have described previously [7] .
